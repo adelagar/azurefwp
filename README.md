@@ -1,5 +1,5 @@
 # Azure Virtual Network, VPN Gateway and Site to Site IPSEC Connection 
-Deploy the following Azure Template to create an Azure Virtual Network, with an Azure Gateway and Site to site VPN connection. This is a public repo that anypne can clone and use
+Deploy the following Azure Template to create an Azure Virtual Network, an Azure Gateway, and Site to site VPN connection. This is a public repo that anypne can clone and use
 as part of their deployment. 
 
 
