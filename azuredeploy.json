@@ -4,7 +4,7 @@
     "parameters": {
 
         "VNETName": {
-            "defaultValue":"AZURE-CONTOSO-VNET",
+            "defaultValue":"EASTUS-PROD-CONTOSO-VNET",
             "type": "string",
             "metadata": {
                 "description": "Virtual Network Name"
@@ -29,7 +29,7 @@
 
 
         "PLinkSub": {
-            "defaultValue":"AZURECONTOSO-PRIVATELINK-SUBNET",
+            "defaultValue":"EASTUS-PROD-ENDPOINTSVC-SUBNET",
             "type": "string",
             "metadata": {
                 "description": "Tennat Dedicated Subnet"
