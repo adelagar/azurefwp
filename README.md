@@ -15,11 +15,7 @@ The Azure solution automates the creatiion of a Site to Site VPN solution betwee
 Microsoft Azure Commercial Click Here 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fadelagar%2Fazurefwp%2Fmain%2Fazuredeploy.json) 
 
-| Azure Cloud      | Link          |
-| -------------    |:-------------:| -----:|
-| Commercial       | right-aligned | $1600 |
-|                  |               |   $12 |
-| Azure Government | are neat      |    $1 |
+**
 
 
 Microsoft Azure Government Click Here
