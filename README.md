@@ -1,8 +1,13 @@
-# Azure Virtual Network, VPN Gateway, Site to Site IPSEC Connection, and a dedicated subnet for a Private Endpoint to use with a Private Link Service. 
-Deploy the following Azure Template to create an Azure Virtual Network, an Azure Gateway, and Site to site VPN connection. This is a public repo that anypne can clone and use
-as part of their deployment. 
 
-Please note you will need to know the VPN Peering Partner Public IP and network segment before deploying this solution.
+# Azure Virtual Network Solution
+
+### The following Azure JSON Template will help deploy an Virtual Network, a VPN Gateway, an IKEV2 Site to Site IPSEC Connection with a Preshared Key, and an optional  dedicated subnet for a Private Endpoint to use with Azure Private Link Service. You can use this to deploy an Azure site to site vpn netween Azure and on-premises, another Azure virtual network, and a AWS VPC that has a VPN solution deployed.
+
+The Azure solution automates the creatiion of a Site to Site VPN solution between with on-premises and documented here: [Create a Site-to-Site connection in the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
+
+### This is a public repository released as is for anypne can clone, modify, and use as part of their deployment. 
+
+*## Please note you will need to know the Public IP of your VPN Peering Partner Public IP and network segment before deploying this solution.
 
 
 Microsoft Azure Commercial Click Here 
