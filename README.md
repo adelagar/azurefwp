@@ -22,6 +22,6 @@ The solution automates the creatiion of a Site to Site VPN solution between Azur
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fadelagar%2Fazurefwp%2Fmain%2Fazuredeploy.json) 
 
 
-### For additional updates and latests industry news please visit us on our main site [cloudfanatic.delagarde.net](http://cloudfanatic.delagarde.net/)
+### For additional updates and the latests industry news please visit us on our main site [cloudfanatic.delagarde.net](http://cloudfanatic.delagarde.net/)
 
 #### Thank you
