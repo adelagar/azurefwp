@@ -3,7 +3,7 @@
 
 ### The following Azure JSON Template will automate the deployment of a Virtual Network, VPN Gateway, VPN Gateway Public IP, a IKEV2 Site to Site IPSEC Connection with a Preshared Key, and as optional a dedicated subnet that can be leveraged as a Private Endpoint. ### 
 
-The Azure solution automates the creatiion of a Site to Site VPN solution between with on-premises and documented here: [Create a Site-to-Site connection in the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal), another Azure virtual network, and a AWS VPC that has a VPN solution deployed.
+The Azure solution automates the creatiion of a Site to Site VPN solution between with on-premises as documented here: [Create a Site-to-Site connection in the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal), another Azure virtual network, and a AWS VPC that has a VPN solution deployed.
 
 ### The solution can be leveraged for eith Azure Commercial or Azure Government. ###
 
