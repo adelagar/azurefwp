@@ -4,7 +4,7 @@
     "parameters": {
 
         "VNETName": {
-            "defaultValue":"AZUSGOVVA-TENNANT-VNET",
+            "defaultValue":"AZURE-CONTOSO-VNET",
             "type": "string",
             "metadata": {
                 "description": "Virtual Network Name"
@@ -29,7 +29,7 @@
 
 
         "PLinkSub": {
-            "defaultValue":"AZUSGOVVA-PRIVATELINK-SUBNET",
+            "defaultValue":"AZURECONTOSO-PRIVATELINK-SUBNET",
             "type": "string",
             "metadata": {
                 "description": "Tennat Dedicated Subnet"
@@ -142,9 +142,9 @@
             "tags": {
                 "NAME": "[parameters('VNETName')]",
                 "ASSET": "Virtual Network",
-                "PRODUCT": "SteelBox",
+                "PRODUCT": "WINGTIPS",
                 "CONTACT": "cloudoperations@contoso.com",
-                "COST CENTER": "AZGOVACCT-0001",
+                "COST CENTER": "AZUREACCT-0001",
                 "ENVIRONMENT": "Production",
                 "OWNER": "Central IT"
             },
