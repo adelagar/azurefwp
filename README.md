@@ -20,3 +20,6 @@ The solution automates the creatiion of a Site to Site VPN solution between Azur
 
 #### Microsoft Azure Government Click Here: ####
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fadelagar%2Fazurefwp%2Fmain%2Fazuredeploy.json) 
+
+
+### For additional updates please visit us on our main page [cloudfanatic.delagarde.net](http://cloudfanatic.delagarde.net/)
