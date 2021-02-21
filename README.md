@@ -5,7 +5,7 @@
 
 The solution automates the creatiion of a Site to Site VPN solution between Azure and  on-premises as documented here: [Create a Site-to-Site connection in the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal), another Azure virtual network, and a AWS VPC that has a native VPN solution deployed.
 
-### The solution can be leveraged for eith Azure Commercial or Azure Government. ###
+### The solution can be leveraged for either Azure Commercial or Azure Government. ###
 
 ### This is a public repository released "as is" for anypne to clone, modify, and use as part of their personal deployment. ###
 
