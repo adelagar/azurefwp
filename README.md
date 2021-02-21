@@ -12,12 +12,16 @@ The Azure solution automates the creatiion of a Site to Site VPN solution betwee
 *## Please note you will need to know the Public IP of your VPN Peering Partner, preshared key, and the remote network segment before deploying this solution. ##*
 
 
-*separate paragraph* Microsoft Azure Commercial Click Here 
+Microsoft Azure Commercial Click Here 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fadelagar%2Fazurefwp%2Fmain%2Fazuredeploy.json) 
 
+| Azure Cloud      | Link          |
+| -------------    |:-------------:| -----:|
+| Commercial       | right-aligned | $1600 |
+|                  |               |   $12 |
+| Azure Government | are neat      |    $1 |
 
 
-
-*separate paragraph* Microsoft Azure Government Click Here
+Microsoft Azure Government Click Here
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fadelagar%2Fazurefwp%2Fmain%2Fazuredeploy.json) 
