@@ -7,9 +7,9 @@ The Azure solution automates the creatiion of a Site to Site VPN solution betwee
 
 ### The solution can be leveraged for eith Azure Commercial or Azure Government.
 
-*### This is a public repository released "as is" for anypne to clone, modify, and use as part of their personal deployment. 
+### This is a public repository released "as is" for anypne to clone, modify, and use as part of their personal deployment. 
 
-*## Please note you will need to know the Public IP of your VPN Peering Partner, preshared key, and the remote network segment before deploying this solution. ##*
+## Please note you will need to know the Public IP of your VPN Peering Partner, preshared key, and the remote network segment before deploying this solution. ##
 
 
 Microsoft Azure Commercial Click Here 
