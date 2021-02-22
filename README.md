@@ -24,4 +24,4 @@ The solution automates the creatiion of a Site to Site VPN solution between Azur
 
 ### For additional updates and the latests industry news please visit us on our main site [Cloudfanatic](http://cloudfanatic.delagarde.net/)
 
-#### Thank you
+### Thank you
